@@ -144,7 +144,7 @@ background-image: url("images/MORN_logo.png")
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 
-###[https://morn.netlify.com](https://morn.netlify.com)
+###[https://morn.netlify.com](https://morn.netlify.com)                   @MelbOpenRes
 
 ???
 If you're in Melbourne and want to help change this dialogue, to be a part of a positive conversation that's about sharing practices and promoting growth, fill in our survey, join our mailing list, follow our social media and get in touch.
@@ -154,4 +154,4 @@ Together we can make "open research practices" into "research Practices", and al
 ---
 class: center, middle
 <iframe src="https://morn.netlify.com" width="640" height="500" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-###[https://morn.netlify.com](https://morn.netlify.com)
+###[https://morn.netlify.com](https://morn.netlify.com)                   @MelbOpenRes
