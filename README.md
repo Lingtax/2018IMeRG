@@ -1,4 +1,3 @@
-# 2018IMeRG
+# 2018 IMeRG Presentation
 
-The goal of 2018IMeRG is to ...
 
